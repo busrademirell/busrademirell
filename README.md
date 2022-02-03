@@ -1,4 +1,4 @@
-h1 align="center">Hi there 👋, I'm Büşra </h1> 
+<h1 align="center">Hi there 👋, I'm Büşra </h1> 
 
 🔭 I’m currently working on programming <br>
 🤖 I'm computer programing student.
