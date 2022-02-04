@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Büşra </h1> 
 
-🔭 I’m currently working on programming <br>
+🔭 I’m currently learning software, hardware (everything about computer) <br>
 🤖 I'm computer programing student.
 
 
