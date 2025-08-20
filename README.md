@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Büşra </h1> 
 
 🔭 I’m currently learning software, hardware (everything about computer) <br>
-🤖 I'm computer programing student.
+🤖 I'm a junior software developer.
 
 
 
